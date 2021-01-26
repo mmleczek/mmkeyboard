@@ -1,7 +1,7 @@
 # Examples
 #### Lua
 ```
-@allow_to_walk - defines if player can walk while isn't typing any text
+@allow_to_walk - defines if player can walk while not typing any text
 @maxlen - defines max possible lenght of text in textarea
 ```
 ```lua
