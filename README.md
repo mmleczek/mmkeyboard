@@ -1,5 +1,5 @@
 # mmkeyboard-csharp
-FiveM C# resource, created for easy to use async screen keyboard replacement.
+FiveM C# resource, created for easy to use as screen keyboard replacement.
 
 # This project has been abandoned, feel free to develop it further on your own
 # Download
