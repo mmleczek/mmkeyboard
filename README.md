@@ -1,6 +1,7 @@
-# mmkeyboard
+# mmkeyboard-csharp
 FiveM C# resource, created for easy to use async screen keyboard replacement.
 
+# This project has been abandoned, feel free to develop it further on your own
 # Download
 Click [here](https://github.com/mmleczek/mmkeyboard/releases) to go to the releases page and download it.
 
