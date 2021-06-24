@@ -2,7 +2,7 @@
 #### Lua
 ```
 @allow_to_walk - defines if player can walk while not typing any text
-@maxlen - defines max possible lenght of text in textarea
+@maxlen - defines max possible length of text in textarea
 ```
 ```lua
 exports.mmkeyboard:Show(@allow_to_walk, @maxlen, function(text)
