@@ -1,12 +1,12 @@
 # mmkeyboard-csharp
-FiveM C# resource, created for easy to use as screen keyboard replacement.
+FiveM C# resource, created for easy to use GTA's screen keyboard replacement.
 
 # This project has been abandoned, feel free to develop it further on your own
 # Download
-Click [here](https://github.com/mmleczek/mmkeyboard/releases) to go to the releases page and download it.
+Click [here](https://github.com/mmleczek/mmkeyboard-csharp/releases) to go to the releases page and download it.
 
 # Examples
-Examples are available [here](https://github.com/mmleczek/mmkeyboard/blob/master/Examples.md).
+Examples are available [here](https://github.com/mmleczek/mmkeyboard-csharp/blob/master/Examples.md).
 
 # Copyright
 Copyright © Mateusz Mleczek 2020.
